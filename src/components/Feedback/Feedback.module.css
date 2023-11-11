@@ -1,0 +1,31 @@
+.feedback {
+  width: 1200px;
+  margin: 100px auto 0;
+}
+.feedbackTitle {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.feedbackList {
+  text-align: center;
+}
+.btnContainer {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.feedbackBtn {
+  width: 100px;
+  padding: 20px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  background-color: #ffffc5;
+  box-shadow: 0 5px 15px #3b4b2f;
+}
+
+.feedbackStat {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
